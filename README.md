@@ -1,9 +1,5 @@
 ##Consumer Purchase Prediction using Linear Regression
-#1. Project Title / Headline
-
-Consumer Purchase Prediction using Linear Regression
-
-"A predictive analytics project developed using Linear Regression to estimate the likelihood of customers purchasing a hybrid vehicle based on demographic and socioeconomic factors. The model helps businesses identify high-potential customers and optimize marketing strategies through data-driven insights."
+#1."A predictive analytics project developed using Linear Regression to estimate the likelihood of customers purchasing a hybrid vehicle based on demographic and socioeconomic factors. The model helps businesses identify high-potential customers and optimize marketing strategies through data-driven insights."
 
 #2. Short Description / Purpose
 
